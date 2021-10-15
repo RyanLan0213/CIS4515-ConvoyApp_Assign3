@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="Rusername">Rusername</string>
+    <string name="firstname">firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="register_b">Register B</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="logout">Logout</string>
+    <string name="create_convoy">Create Convoy</string>
+    <string name="textview">TextView</string>
+    <string name="leave_convoy">Leave Convoy</string>
+    <string name="join_convoy">Join Convoy</string>
+</resources>
